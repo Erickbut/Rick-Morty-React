@@ -1,0 +1,53 @@
+.card1{
+    background-color: rgba(43, 56, 19, 0.478);
+    height: 80px;
+    width: 100%;
+    left: 275px;
+    top: 404px;
+    border-radius: 0px;
+    align-items: center;
+    display: inline-flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.title1{
+    justify-content: center;
+    margin-top: 0%;
+    margin-left: 60px;
+    margin-right: 5px;
+    font-size: 24px;
+    line-height: 28px;
+}
+.title_planet{
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 21px;
+}
+.card_list1{
+    background-color: rgba(43, 56, 19, 0.478);
+    height: 80px;
+    width: 100%;
+    left: 275px;
+    top: 404px;
+    border-radius: 0px;
+    align-items: center;
+    display: inline-flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.card_item1{
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 21px;
+}
+.card_span1{
+    display: inline-flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 24px;
+    line-height: 28px;
+}
